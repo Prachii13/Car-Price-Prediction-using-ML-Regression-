@@ -1,0 +1,5 @@
+car-price-prediction/
+├── car_price_prediction.ipynb
+├── car_data.csv
+├── README.md
+└── requirements.txt
